@@ -1,4 +1,23 @@
 body {
-    background: blue;
+    background: rgb(184, 184, 206);
+
+}
+
+h1.Header1 {
+    text-align: center;
+    font size: 40px;    
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: chocolate;
+}
+
+div.Hello {
+    color: blue;
+    text-align: center;
+    
 
 }
