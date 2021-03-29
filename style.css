@@ -4,15 +4,21 @@ body {
 
 }
 
-h1.Header1 {
+h1#Header1 {
     text-align: center;
     font-style: oblique;
       
     
 }
 
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
-div.Hello {
+
+div#Hello {
     color: black;
     text-align: center;
     font-style: oblique;
